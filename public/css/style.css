@@ -1,0 +1,50 @@
+
+/* GLOBAL */
+
+html {
+  height: inherit;
+}
+
+.container.main {
+  margin-top: 4.7em;
+  margin-bottom: 1.5em;
+}
+
+/* HEADER */
+
+.menu .header i.icon {
+  font-size: 1.8em;
+  padding-right: 5em;
+  padding-left: 5em;
+}
+
+.ui .container{
+  background-color: #606C38;
+}
+
+
+
+/* INDEX */
+
+i.icon.chevron {
+  font-size: 0.8em;
+}
+
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/military-background-seamless-vector-pattern-71787955.jpg');
+    background-size: cover;
+}
+
+.content .header a {
+  color: #606c38;
+}
+
+.content .header a:hover {
+  text-decoration: underline;
+}
+
+/* SHOW */
+
+#delete {
+  display: inline;
+}
